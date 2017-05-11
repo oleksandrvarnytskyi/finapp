@@ -3,8 +3,9 @@
 Develop some financial system on Django with the help of Django Rest Framework,
 using python 3.
 
-Application description
-We have two main roles. Clients and Managers. Clients can register, login by pin
+Application description.
+
+We have two main roles. Clients and Managers.  Clients can register, login by pin
 code and close their accounts. Managers are created from admin panel and can
 approve user registration and accounts closing.
 
@@ -29,6 +30,3 @@ confirm the deletion 
 Tech. requirements :
 - All endpoints should be invented by developer 
 - This is only REST backend application. You shouldn’t do any UI
-
-Will be a plus [advanced level] :
-- Add email notifications to Managers and Clients
